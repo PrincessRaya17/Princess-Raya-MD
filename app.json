@@ -1,0 +1,182 @@
+{
+  "name": "Princess-Raya-MD",
+  "description": "WhatsApp bot made by Ryan T Ropah",
+  "logo": "https://files.catbox.moe/f6tph9.jpg",
+  "keywords": ["princess-raya-md"],
+  "success_url": "/",
+
+    "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put Session ID here.",
+      "required": true,
+      "value": "replace this with Session ID"
+    },  
+    
+    "ALIVE_IMG": {
+      "description": "replce the value with image URL",
+      "required": false,
+      "value": "https://files.catbox.moe/9t74nx.jpg"
+    }, 
+    
+    "LIVE_MSG": {
+      "description": "paste your alive message hear.",
+      "required": false,
+      "value": "_❄️ Princess Raya is Alive! ❄️_"
+    },
+    
+    "PREFIX": {
+      "description": "put your prefix and do not leave it blank",
+      "required": true,
+      "value": "."
+    },
+    
+    "MODE": {
+      "description": "choose bot mode public-private-inbox-group.",
+      "required": false,
+      "value": "public"
+      
+    },
+    
+    
+    "ALWAYS_ONLINE": {
+      "description": "Make it true if want always online.",
+      "required": true,
+      "value": "true"  
+    },    
+  
+    "AUTO_VOICE": {
+      "description": "Make it true if want automatic voice reply",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_REPLY": {
+      "description": "Make it true if you want automatic reply.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_STICKER": {
+      "description": "Make it true if you want automatic sticker.",
+      "required": false,
+      "value": "false"
+    }, 
+
+
+    "AUTO_STATUS_SEEN": {
+      "description": "Make it true for automatic status seen.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_STATUS_REPLY": {
+      "description": "Make it true for auto reply msg on status seen.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_STATUS_MSG": {
+      "description": "Type custom message on status reply",
+      "required": true,
+      "value": "_❄️ Hi dear, Princess Raya MD bot has just viewed your status! ❄️_"
+    }, 
+
+    "OWNER_NAME": {
+      "description": "Enter your owner name.",
+      "required": false,
+      "value": "Ryan T Ropah"
+}, 
+
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot.",
+      "required": false,
+      "value": "263780177755"
+
+    }, 
+
+    "BOT_NAME": {
+      "description": "enter the bot name.",
+      "required": false,
+      "value": "Princess Raya"
+
+      }, 
+
+    "ANTI_LINK": {
+      "description": "Make it true if you want bot auto remove group link.",
+      "required": true,
+      "value": "true"
+      
+    },
+    
+    "ANTI_BAD": {
+      "description": "make it true to delete vulgar",
+      "required": true,
+      "value": "true"
+    }, 
+
+     "DESCRIPTION": {
+      "description": "add caption for menu and other",
+      "required": false,
+      "value": "_❄️ Downloaded by Princess Raya MD ❄️_"
+    },
+
+      "DELETE_LINKS": {
+      "description": "delete links and keep the member",
+      "required": false,
+      "value": "false"
+    },
+    
+    "AUTO_RECORDING": {
+      "description": "Make it true if you want auto recoding.",
+      "required": false,
+      "value": "false"
+    },
+
+    "AUTO_TYPING": {
+      "description": "Make it true if you want auto typing.",
+      "required": true,
+      "value": "true"
+    },
+
+    "AUTO_REACT": {
+      "description": "make it true for auto react to all messages",
+      "required": true,
+      "value": "true"
+    },
+    
+    "CUSTOM_REACT": {
+      "description": "make it true for custom reactions.",
+      "required": true,
+      "value": "true"
+      
+    }, 
+    
+    "CUSTOM_REACT_EMOJIS": {
+      "description": "put here custom reaction emojis.",
+      "required": true,
+      "value": "❄️,🇿🇼,✨"
+    }, 
+    
+    "READ_CMD": {
+      "description": "make it true if you want  to mark commands as read.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "READ_MESSAGE": {
+      "description": "make it true for auto blue tick",
+      "required": true,
+      "value": "true"
+    }
+
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
+  
