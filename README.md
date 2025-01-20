@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Princess%20Raya%20%20MD%202.0%20W.A%20BOT&font=Fira%20Code&center=true&width=440&height=45&color=6495ED&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Princess%20Raya%20%20MD&font=Fira%20Code&center=true&width=440&height=45&color=6495ED&vCenter=true&pause=1000&size=22" />
 </p>
 <br>
 
@@ -15,7 +15,7 @@
             alt="Princess-Raya-MD" 
             width="700" 
             height="400" 
-            src="https://cloud.eclipse-web.site/index.php/s/n6exT6ncYGEgxPD/download/0.7msnlz2tajr.png" 
+            src="https://files.catbox.moe/f6tph9.jpg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
@@ -69,9 +69,9 @@ Please Star My Repo🌟
 
 --- 
 
-<a><img src='https://cloud.eclipse-web.site/index.php/s/C36A5FkgkkRiL4i/download/0.ix7eescpc5.png'/></a>
+<a><img src='https://files.catbox.moe/72czl1.jpg'/></a>
 
-<a><img src='https://cloud.eclipse-web.site/index.php/s/6so5RptMo4E9jbW/download/0.4lnpknzgzzi.png'/></a>
+<a><img src='https://files.catbox.moe/b2hysw.jpg'/></a>
 
 ***
 
@@ -373,10 +373,10 @@ jobs:
 
 
 <div align="center">
-    <a><img src='https://cloud.eclipse-web.site/index.php/s/YD5XdQyrkgfr3sL/download/0.4fnw9dvkl36.png'/></a>
-    <a><img src='https://cloud.eclipse-web.site/index.php/s/nW84KR456fDJ2Z8/download/0.hhl6vu2gsub.png'/></a>
-    <a><img src='https://cloud.eclipse-web.site/index.php/s/ik5KMqe6b7Qaqas/download/0.rfs398y6r5.png'/></a>
-    <a><img src='https://cloud.eclipse-web.site/index.php/s/A8iTMfRbp3DRFNC/download/0.vxe01ibixti.png'/></a>
+    <a><img src='https://files.catbox.moe/9t74nx.jpg'/></a>
+    <a><img src='https://files.catbox.moe/grf1oy.jpg'/></a>
+    <a><img src='https://files.catbox.moe/ouupvx.jpg'/></a>
+    <a><img src='https://files.catbox.moe/yp6djm.jpg'/></a>
 </div>
 
 ---
