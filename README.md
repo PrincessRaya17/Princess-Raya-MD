@@ -13,8 +13,8 @@
     <a href="" style="text-decoration: none;">
         <img 
             alt="Princess-Raya-MD" 
-            width="250" 
-            height="250" 
+            width="400" 
+            height="400" 
             src="https://files.catbox.moe/f6tph9.jpg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
@@ -95,9 +95,9 @@ Start by forking this repository to your own GitHub account. Click the button be
   ---
   
 ### 🌸  Deploy Raya MD on TalkDrove 🌸
-[![Sign Up for TalkDrove](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/auth/signup?ref=9535F15A)
+[![Sign Up for TalkDrove](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/auth/signup?ref=88)
 <br>
-[![Deploy On TalkDrove](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/share-bot/66)
+[![Deploy On TalkDrove](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/share-bot/88)
 <br>
     <br>
 
@@ -107,7 +107,7 @@ Start by forking this repository to your own GitHub account. Click the button be
     
  🌱 Obtain Session ID With QR Code🌱
    
-<a href="https://cutt.ly/rayabotqr">
+<a href="https://cutt.ly/raya-sessions">
         <img height="30" title="QR" src="https://img.shields.io/badge/QR-purple?style=for-the-badge&logo=render&logoColor=white">
     </a>
 </div>
@@ -117,7 +117,7 @@ Start by forking this repository to your own GitHub account. Click the button be
     
   🌱 Get Session ID With Pairing Code  🌱
    
-<a href="https://cutt.ly/rayabotpair">
+<a href="https://cutt.ly/raya-sessions">
         <img height="30" title="Pair" src="https://img.shields.io/badge/Pair-purple?style=for-the-badge&logo=render&logoColor=white">
     </a>
 </div>
@@ -144,7 +144,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://talkdrove.com/share-bot/66' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://talkdrove.com/share-bot/88' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
   
 <details>
   
@@ -156,7 +156,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 <h6 align-"center">
 Create Account Here:
 
-https://host.talkdrove.com/auth/signup?ref=9535F15A
+https://host.talkdrove.com/auth/signup?ref=88
 
 Then Login
 Claim 10 coins in wallet section
@@ -173,7 +173,7 @@ You must fill in the details
 
 Session ID here:
 
-https://cutt.ly/rayabotsession
+https://cutt.ly/raya-sessions
 
 After you're done filling in
 Click deploy button 
@@ -211,7 +211,7 @@ That's all bot connected
   
 <p align="center">
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
---------
+-----
 
 <h4 align="center">😇 Deploy on Huggingface 😇</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -390,23 +390,23 @@ jobs:
 1. *Princess Raya MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 2. *In that case, I'm not responsible for banning your account.*
 3. *Use Princess Raya keeping this warning in mind.*
-4. Princess Raya MD made available under the [GPL-3 license](https://github.com/RyanTRopah/Princess-Raya-MD/blob/main/LICENCE).
+4. Princess Raya MD made available under the [Apache-2.0 License](https://github.com/RyanTRopah/Princess-Raya-MD/blob/main/LICENCE).
 
 
 ---
 
 
- [Ryan T Ropah](https://ryantropah.com)
+ [Ryan T Ropah](https://github.com/RyanTRopah)
 
- [Ryan Satellite](https://ryansatellite.com)
+ [Ryan Satellite](https://github.com/RyanSatellite)
 
- [P17 Bots](https://cutt.ly/P17Bots)
+ [P17 Bots](https://github.com/P17Bots)
 
- [Axios Hacker](https://cutt.ly/axioshacker)
+ [Axios Hacker](https://whatsapp.com/channel/0029VaxZtQy5Ejxw1iO0TG1p)
 
- [Eva Sky](https://cutt.ly/EvaSky)
+ [Princess Raya](https://www.youtube.com/@princessraya17)
 
- [Shannon Gaming](https://shannongaming.com)
+ [Shannon Gaming](https://https://www.youtube.com/@ShannonGaming)
 
 `Welcome to 2025!`
 ---
