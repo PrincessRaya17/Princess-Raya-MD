@@ -95,7 +95,7 @@ Start by forking this repository to your own GitHub account. Click the button be
   ---
   
 ### 🌸  Deploy Raya MD on TalkDrove 🌸
-[![Sign Up for TalkDrove](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/auth/signup?ref=88)
+[![Sign Up for TalkDrove](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/auth/signup?ref=C2823836)
 <br>
 [![Deploy On TalkDrove](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/share-bot/88)
 <br>
@@ -156,7 +156,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 <h6 align-"center">
 Create Account Here:
 
-https://host.talkdrove.com/auth/signup?ref=88
+https://host.talkdrove.com/auth/signup?ref=C2823836
 
 Then Login
 Claim 10 coins in wallet section
