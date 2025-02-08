@@ -13,8 +13,8 @@
     <a href="" style="text-decoration: none;">
         <img 
             alt="Princess-Raya-MD" 
-            width="400" 
-            height="400" 
+            width="300" 
+            height="300" 
             src="https://files.catbox.moe/f6tph9.jpg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
